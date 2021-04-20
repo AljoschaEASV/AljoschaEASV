@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AljoschaEASV
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning Things to manipulate thema
+- 🌱 I’m currently learning Things to manipulate them
+- 🌱 I’m currently trying to make them automate things.
 - 💞️ I’m looking to collaborate on Web || Networks
 - 📫 How to reach me info@aljoscha-wiesner.com
 
